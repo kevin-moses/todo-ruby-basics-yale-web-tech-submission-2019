@@ -24,7 +24,7 @@ end
 
 def last_evaluated_value
   ex = "expert"
-  expert
+  ex
 
 end
 
